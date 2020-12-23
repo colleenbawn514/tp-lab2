@@ -1,0 +1,12 @@
+{
+    "players": [
+        {
+            "username": "Player 0",
+            "answer": "y"
+        },
+        {
+            "username": "Player 1",
+            "answer": "y"
+        }
+    ]
+}
